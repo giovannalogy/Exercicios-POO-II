@@ -1,0 +1,15 @@
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\bin\Debug\net6.0\Exercício2-Interface.exe
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\bin\Debug\net6.0\Exercício2-Interface.deps.json
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\bin\Debug\net6.0\Exercício2-Interface.runtimeconfig.json
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\bin\Debug\net6.0\Exercício2-Interface.dll
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\bin\Debug\net6.0\Exercício2-Interface.pdb
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\obj\Debug\net6.0\Exercício2-Interface.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\obj\Debug\net6.0\Exercício2-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\obj\Debug\net6.0\Exercício2-Interface.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\obj\Debug\net6.0\Exercício2-Interface.AssemblyInfo.cs
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\obj\Debug\net6.0\Exercício2-Interface.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\obj\Debug\net6.0\Exercício2-Interface.dll
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\obj\Debug\net6.0\refint\Exercício2-Interface.dll
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\obj\Debug\net6.0\Exercício2-Interface.pdb
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\obj\Debug\net6.0\Exercício2-Interface.genruntimeconfig.cache
+C:\Users\giova\OneDrive\Área de Trabalho\Exercício Interface e Abstração - POO II\Exercício2-Interface\obj\Debug\net6.0\ref\Exercício2-Interface.dll
