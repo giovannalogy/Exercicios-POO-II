@@ -16,7 +16,7 @@ internal class Program
         Varejo varejo = new Varejo("Loja XYZ", 30);
         Empreiteira empreiteira = new Empreiteira("Construtora XYZ", 50);
 
-         Console.WriteLine("\nInformações da Loja XYZ");
+        Console.WriteLine("\nInformações da Loja XYZ");
         varejo.ImprimirDados();
         varejo.FazerVenda();
 

@@ -9,8 +9,10 @@ internal class Program
 
         List<IImplementacao> empresas = new List<IImplementacao>();
 
+        EnviarNotificacaoWhatsapp notificacaoWhatsapp = new EnviarNotificacaoWhatsapp();
+
         empresas.Add(new Empresa("Grupo XYZ", 150));
-        empresas.Add(new Varejo("Loja XYZ", 30));
+        empresas.Add(new Varejo("Loja XYZ", 30, notificacaoWhatsapp));
         empresas.Add(new Empreiteira("Empreiteira XYZ", 100));
 
         foreach (var empresa in empresas)

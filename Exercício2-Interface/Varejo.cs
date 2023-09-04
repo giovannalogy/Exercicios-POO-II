@@ -11,10 +11,13 @@ namespace Exercício2_Interface
         public string NomeEmpresa { get; set; }
         public int NumeroDeFuncionarios { get; set; }
 
-        public Varejo(string nomeEmpresa, int numeroDeFuncionarios)
+        private readonly IEnviarNotificação enviarNotificação;
+
+        public Varejo(string nomeEmpresa, int numeroDeFuncionarios, IEnviarNotificação enviarNotificação)
         {
             NomeEmpresa = nomeEmpresa;
             NumeroDeFuncionarios = numeroDeFuncionarios;
+            this.enviarNotificação = enviarNotificação;
         }
 
         public void ImprimirDados()
@@ -25,7 +28,10 @@ namespace Exercício2_Interface
 
         public void FazerVenda()
         {
-            Console.WriteLine("O Varejo vendeu muitos notebooks!");
+            Console.WriteLine("O Varejo vendeu um notebook");
+
+            enviarNotificação.EnviarMensagemCliente();
+
 
         }
 

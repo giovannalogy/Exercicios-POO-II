@@ -19,4 +19,9 @@ namespace Exercício2_Interface
         void FazerVenda();
     }
 
+    public interface IEnviarNotificação
+    {
+        void EnviarMensagemCliente();
+    }
+
 }
