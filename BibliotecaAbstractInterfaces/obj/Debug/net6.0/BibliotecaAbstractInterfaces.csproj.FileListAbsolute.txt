@@ -1,0 +1,15 @@
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\bin\Debug\net6.0\BibliotecaAbstractInterfaces.exe
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\bin\Debug\net6.0\BibliotecaAbstractInterfaces.deps.json
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\bin\Debug\net6.0\BibliotecaAbstractInterfaces.runtimeconfig.json
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\bin\Debug\net6.0\BibliotecaAbstractInterfaces.dll
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\bin\Debug\net6.0\BibliotecaAbstractInterfaces.pdb
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\obj\Debug\net6.0\BibliotecaAbstractInterfaces.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\obj\Debug\net6.0\BibliotecaAbstractInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\obj\Debug\net6.0\BibliotecaAbstractInterfaces.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\obj\Debug\net6.0\BibliotecaAbstractInterfaces.AssemblyInfo.cs
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\obj\Debug\net6.0\BibliotecaAbstractInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\obj\Debug\net6.0\BibliotecaAbstractInterfaces.dll
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\obj\Debug\net6.0\refint\BibliotecaAbstractInterfaces.dll
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\obj\Debug\net6.0\BibliotecaAbstractInterfaces.pdb
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\obj\Debug\net6.0\BibliotecaAbstractInterfaces.genruntimeconfig.cache
+C:\Users\giova\OneDrive\Área de Trabalho\BibliotecaAbstractInterfaces\obj\Debug\net6.0\ref\BibliotecaAbstractInterfaces.dll
